@@ -1,0 +1,27 @@
+<div class="home_address">
+  <p><b><u>ADDRESS</u></b></p>
+  <div ng-repeat="line in address">
+    <p>{{line}}</p>
+  </div>
+</div>
+
+<div class="row">
+  <div ng-repeat="(id,contacts) in contacts">
+    <div class="{{contacts.style}} card">
+      <div class=avatar>
+        <a href="#{{contacts.link}}">
+          <object data="images/{{contacts.id}}.jpg" type="image/jpg">
+            <img src="images/0.jpg" />
+          </object>
+        </a>
+        <div class=data>
+          <p>{{contacts.name}}</p>
+          <p>{{contacts.mobile}}</p>
+          <p style="font-size:1.8vw">{{contacts.status1}}</p>
+          <p style="font-size:1.8vw">&nbsp;{{contacts.status2}}</p>
+          <p>{{contacts.dob}}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
