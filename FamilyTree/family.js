@@ -20,7 +20,7 @@ mainApp.controller('ctrl_0', function($scope) {
 
 mainApp.controller('ctrl_1', function($scope) {
 	$scope.address = [
-		'Shreyas', Karukappadath House',
+		'"Shreyas", Karukappadath House',
 		'Chathedath parambu, P.O. Kodungallur',
 		'Thrissur, Kerala',
 		'PIN: 680664',
