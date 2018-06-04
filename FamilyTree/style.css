@@ -1,5 +1,8 @@
-.A4 {
+body{
   background-color: antiquewhite;
+}
+
+.A4 {
   width: 100%;
   padding-top: 141.4%; /* A4 Aspect Ratio */
   position: relative; /* If you want text inside of it */
@@ -73,10 +76,19 @@
   margin: 5%;
   padding: 7.5%;
   padding-top: 2%;
+  padding-bottom: 2%;
+  height: 10 vw;
 }
 #personalData .parent_card .data{
   margin-left: -25%;
   margin-right: -25%;
+}
+#personalData .child_card1{
+  width: 24%;
+  height: 80%;
+  margin: 35%;
+  margin-top: 10%;
+/*  padding: 3%;*/
 }
 #personalData .child_card2{
   width: 22%;
@@ -84,7 +96,7 @@
   margin: 11%;
 /*  padding: 3%;*/
 }
-#personalData .child_card6{
+#personalData .child_card6, #personalData .child_card3{
   width: 20%;
   height: 80%;
   margin: 3.66%;
@@ -92,7 +104,7 @@
   margin-bottom: 2%;
   padding: 3%;
 }
-#personalData .child_card8{
+#personalData .child_card8, #personalData .child_card4{
   font-size: 1.5vw;
   width: 22%;
   height: 80%;
@@ -111,11 +123,11 @@
   bottom: 0%;
   width: 100%;
   height: 10%;
-  background-color: antiquewhite;
   text-align: center;
 }
 #personalData .footer p{
   font-size: 1.5vw;
   margin-top: 12%;
   color: darkgrey;
+  
 }

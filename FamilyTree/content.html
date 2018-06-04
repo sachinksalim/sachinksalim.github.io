@@ -16,10 +16,10 @@
         </a>
         <div class=data>
           <p>{{contacts.name}}</p>
-          <p>{{contacts.mobile}}</p>
-          <p style="font-size:1.8vw">{{contacts.status1}}</p>
-          <p style="font-size:1.8vw">&nbsp;{{contacts.status2}}</p>
-          <p>{{contacts.dob}}</p>
+          <p ng-show = {{contacts.mobile}}>Mob: {{contacts.mobile}}</p>
+          <p ng-show = "contacts.status1" style="font-size:1.8vw">{{contacts.status1}},</p>
+          <p ng-show = "contacts.status2" style="font-size:1.8vw">&nbsp;{{contacts.status2}}</p>
+          <p ng-show = "contacts.dob">Age:{{contacts.age}}&emsp;DoB: {{contacts.dob}}</p>
         </div>
       </div>
     </div>

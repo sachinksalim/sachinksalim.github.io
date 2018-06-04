@@ -1,23 +1,52 @@
 id	name	mobile	status1	status2	dob	link	_alive	_gender
 0	Mohd. Ali	-					FALSE	
-1	K M Salim	9846377865	Administrative Assistant	Medical Dept.		0	TRUE	
-2	K K Zahida	9895732071	Principal	Higher Secondary Dept.				
-3	Sarin K Salim	9895504760	B.Tech	Computer Science				
-4	Sachin K Salim	8281285234	B.Tech	Computer Science				
+1	K M Salim	9846377865	Administrative Assistant	Medical Dept.	23/04/1965	0	TRUE	
+2	K K Zahida	9895732071	Principal	Higher Secondary Dept.	31/05/1968			
+3	Sarin K Salim	9895504760	B.Tech	Computer Science	06/07/1993	1		
+4	Sachin K Salim	8281285234	B.Tech	Computer Science	24/09/1996	1		
 5	K K Beerachi	-				11		
-6	Mohd. Nazar	-						
-7	Soudabi	-						
-8	Aishabi	-						
-9	Mohd. Iqbal	-						
-10	Mohd. Sageer	-						
+6	Mohd. Nazar	-				0		
+7	Soudabi	-				0		
+8	Aishabi	-				0		
+9	Mohd. Iqbal	-				0		
+10	Mohd. Sageer	-				0		
 11	K B	-						
 12	Aishu	-						
-13	K K Kunjumoitheen	-						
-14	K K Kunjipokkar kutti	-						
-15	K K Fathima	-						
-16	K K Kamaal	-						
-17	K K Aathu	-						
-18	K K Suharabi	-						
-19	K K Zaheed	-						
-20								
-21								
+13	K K Kunjumoitheen	-				11		
+14	K K Kunjipokkar kutti	-				11		
+15	K K Fathima	-				11		
+16	K K Kamaal	-				11		
+17	K K Aathu	-				11		
+18	K K Suharabi	-				11		
+19	K K Zaheed	-				11		
+20	Raseena	-						
+21	Fasil	-				6		
+22	Fayana	-				6		
+23	Abdul Kareem	-						
+24	Happisa	-				7		
+25	Hadhi	-				7		
+26	Hafis	-				7		
+27	Saidu	-						
+28	Subil	-				8		
+29	Sibila	-				8		
+30	Safiya	-						
+31	Muhsin	-				9		
+32	Meshmoom	-				9		
+33	Shuja	-						
+34	Sanju	-				10		
+35	Ayaan	-				10		
+36	Shafi	-						
+37	Afas	-				36		
+38	Yara	-				36		
+39	Nadeem	-				36		
+40	Aysha	-						
+41	Diya	-				40		
+42	Roya	-				40		
+43	Zidane	-				40		
+44	Jashna	-						
+45	Aman	-				44		
+46	Hanna	-						
+47	Ishan	-				46		
+48	Sainul Abideen	-						
+49	Hanna	-				48		
+50	Nihal	-				48		
