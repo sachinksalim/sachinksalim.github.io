@@ -58,12 +58,16 @@
   height: 100%;
   margin: 5%;
   background-color: antiquewhite;  
+/*
   margin-top: 5%;
   margin-bottom: 5%;
-  outline: 0.5vw solid black;
-  padding: 3%;
-  padding-top: 1%;
+*/
+  outline: 0.5vw solid black;/
   
+  overflow: hidden;
+  white-space: nowrap;
+  padding: 3%;
+/*  padding-top: 1%;*/
 }
 #personalData .parent_card{
   margin: 5%;
@@ -71,7 +75,6 @@
   padding-top: 2%;
 }
 #personalData .parent_card .data{
-  
   margin-left: -25%;
   margin-right: -25%;
 }
@@ -79,17 +82,21 @@
   width: 22%;
   height: 80%;
   margin: 11%;
+/*  padding: 3%;*/
 }
 #personalData .child_card6{
   width: 20%;
   height: 80%;
-  margin: 3.33%;
+  margin: 3.66%;
+  margin-top: 1%;
+  margin-bottom: 2%;
+  padding: 3%;
 }
 #personalData .child_card8{
   font-size: 1.5vw;
-  width: 21%;
+  width: 22%;
   height: 80%;
-  padding: 1%;
+  padding: 0.5%;
   margin: 1%;
 }
 #personalData p{
