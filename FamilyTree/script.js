@@ -27,6 +27,7 @@ function setValues(myArr) {
       }
       ID = myArr[i].id;      
       myArr[i].name = dtl[ID].name;
+      myArr[i].late = dtl[ID].late;
       myArr[i].mobile = dtl[ID].mobile;
       myArr[i].dob = dtl[ID].dob;
       myArr[i].age = getAge(dtl[ID].dob);

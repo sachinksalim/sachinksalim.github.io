@@ -9,14 +9,22 @@
   <div ng-repeat="(id,contacts) in contacts">
     <div class="{{contacts.style}} card">
       <div class=avatar>
-        <a href="#{{contacts.link}}">
+        <div ng-hide = "contacts.link">
           <object data="images/{{contacts.id}}.jpg" type="image/jpg">
-            <img src="images/0.jpg" />
-          </object>
-        </a>
+              <img src="images/0.jpg" />
+            </object>
+        </div>
+        <div ng-show = "contacts.link">
+          <a href="#{{contacts.link}}">
+            <object data="images/{{contacts.id}}.jpg" type="image/jpg">
+              <img src="images/0.jpg" />
+            </object>
+          </a>
+        </div>
         <div class=data>
           <p>{{contacts.name}}</p>
-          <p ng-show = {{contacts.mobile}}>Mob: {{contacts.mobile}}</p>
+          <div ng-show = "contacts.late">(LATE)</div>
+          <p ng-show = "contacts.mobile">Mob: {{contacts.mobile}}</p>
           <p ng-show = "contacts.status1" style="font-size:1.8vw">{{contacts.status1}},</p>
           <p ng-show = "contacts.status2" style="font-size:1.8vw">&nbsp;{{contacts.status2}}</p>
           <p ng-show = "contacts.dob">Age:{{contacts.age}}&emsp;DoB: {{contacts.dob}}</p>

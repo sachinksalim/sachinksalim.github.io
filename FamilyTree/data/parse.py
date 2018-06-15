@@ -1,38 +1,3 @@
-fp = open('data.tsv')
-data = fp.read().split('\n')
-fp.close()
-for rowno, row in enumerate(data):
-    data[rowno] = row.split('\t')
-dtl = []
-
-for row in data[1:]:
-    tmp = dict()
-    for colno,col in enumerate(row):
-        tmp[data[0][colno]] = col
-    if tmp['name']:
-        dtl.append(tmp)
-
-fp = open('../data.js', 'w')
-fp.write('dtl = [\n')
-
-for person in dtl:
-    fp.write('\t{\n')
-    for key in data[0]:
-        fp.write('\t\t')
-        fp.write(key)
-        fp.write(':\t')
-        if(key == 'id'):
-            fp.write(person[key])
-        elif(key == 'alive'):
-            fp.write(person[key].lower())
-        else:
-            fp.write('\'' + person[key] + '\'')
-        fp.write(',\n')
-    fp.write('\t},\n')
-fp.write('];')
-fp.close()
-
-
 fp = open('family.tsv')
 allFamilies = fp.read().split('\n')
 fp.close()
@@ -70,6 +35,8 @@ fp.write("\t.otherwise({\n\t\tredirectTo: '/0'\n\t})\n}]);")
 
 fp.write("\n\n")
 
+father = dict() # stores IDs of father of each person
+
 for family in allFamilies[1:]:
     fp.write("mainApp.controller('ctrl_")
     fp.write(family[5])
@@ -82,6 +49,10 @@ for family in allFamilies[1:]:
             break
         fp.write("\n\t\t{id:")
         fp.write("\t" + ID + "},")
+    for ID in family[7:]:
+        if not ID:
+            break
+        father[int(ID)] = family[5]
     fp.write("\n\t];\n")
     fp.write("\tsetValues($scope.contacts);\n")
     fp.write("});\n\n");
@@ -100,7 +71,48 @@ for family in allFamilies[1:]:
         fp.write("\t" + ID + "},")
         fp.write("\n\t];\n")
         fp.write("\tsetValues($scope.contacts);\n")
-        fp.write("});\n\n");
-    
-        
+        fp.write("});\n\n")        
+fp.close()
+
+
+
+fp = open('data.tsv')
+data = []
+for row in fp.read().split('\n'):
+    if row:
+        data.append(row.split('\t'))
+fp.close()
+dtl = []
+for row in data[1:]:
+    tmp = dict()
+    for colno,col in enumerate(row):
+        tmp[data[0][colno]] = col
+    if tmp['name']:
+        dtl.append(tmp)
+
+fp = open('../data.js', 'w')
+fp.write('dtl = [\n')
+
+for person in dtl:
+    fp.write('\t{\n')
+    for key in data[0]:
+        fp.write('\t\t')
+        fp.write(key)
+        fp.write(':\t')
+        if(key == 'id'):
+            fp.write(person[key])
+            ID = int(person[key])
+        elif(key == 'alive'):
+            fp.write(person[key].lower())
+        else:
+            fp.write('\'' + person[key] + '\'')
+        fp.write(',\n')
+    fp.write('\t\tlink:\t')
+    if ID in father:
+        fp.write('\'' + father[ID] + '\'')
+    else:
+        fp.write('\'\'')
+    fp.write(',\n')
+    fp.write('\t},\n')
+fp.write('];')
 fp.close()
