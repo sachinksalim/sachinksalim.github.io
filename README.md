@@ -24,3 +24,5 @@ Mar 2017 -- Apr 2017
 
 - Researched and summarized the history of theories on attention by various cognitive psychologists over the last seven decades.
 - Studied how the knowledge of attention works can be applied to real-life scenarios like advertising and to cure attention disorders.
+
+References: [Report](projects/Attention__Cognitive_Psychology.pdf)
