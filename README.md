@@ -1,8 +1,8 @@
-# Sachin K Salim
+# SACHIN K SALIM
 ### Software Development Engineer
 
 
-## Profile
+## PROFILE
 Highly passionate in the field of cognitive science, wishing to apply strong data-analytics and machine learning skills combined with foundational knowledge of psychology. Two years of experience in application development.
 
 
