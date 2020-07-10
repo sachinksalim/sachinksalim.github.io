@@ -1,14 +1,17 @@
 # Sachin K Salim
 ### Software Development Engineer
 
+
 ## Profile
 Highly passionate in the field of cognitive science, wishing to apply strong data-analytics and machine learning skills combined with foundational knowledge of psychology. Two years of experience in application development.
+
 
 ## Education
 **Indian Institute of Technology Kanpur**\
 B.Tech. in Computer Science \& Engineering\
 7.9 / 10\
 July 2014 - May 2018
+
 
 ## Projects
 **Breaking a Visual CAPTCHA**\
