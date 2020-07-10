@@ -15,7 +15,7 @@ July 2014 - May 2018 <br/>
 ## WORK EXPERIENCE
 ### Adobe Systems, India
 #### Software Development Engineer
-##### Adobe Captivate
+**Adobe Captivate** <br/>
 June 2019 -- Present
 - Developed various new features in the ongoing development of an all-new GUI using ReactJS with TypeScript for Adobe Captivate - an eLearning authoring tool found in 2005.
 - Collaborated with the design team and the product management to discuss and finalize the revamped features and experience.
@@ -26,6 +26,13 @@ Feb 2019 -- June 2019
 ##### PostScript Interpreter
 June 2018 -- Feb 2019
 - Contributed to the development of CPSI, the first product of Adobe found in 1982, by resolving bugs and providing customer support.
+
+### Samsung R \& D, India
+#### Software Development Intern
+**Internet of Things** <br/>
+May 2017 -- July 2017
+- Implemented IoTivity on ARTIK - a microcontroller - and executed an LED controlling program through resource discovery.
+
 
 ## PROJECTS
 **Breaking a Visual CAPTCHA** <br/>
