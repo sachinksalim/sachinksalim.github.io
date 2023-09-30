@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "Home"
+    url: "/"
+
+  - title: "Education"
+    url: /education/
+
+  - title: "Research"
+    url: /research/
+    
+  - title: "Industry"
+    url: /industry/
+
+  - title: "CV*"
+    url: /hobbies/
