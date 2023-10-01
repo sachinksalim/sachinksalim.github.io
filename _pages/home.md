@@ -10,6 +10,6 @@ As a researcher at Draelos Lab, I explore the applications of machine learning a
 
 **Advisor**: Prof. [Anne Draelos](https://draeloslab.org/)
 
-**Contact Information**: 
-* Email: sachinks@umich.edu
-* Office: 1611 Building 25, North Campus Research Center, Ann Arbor, MI 48109
+**Contact Information**:  
+&bull; Email: sachinks@umich.edu  
+&bull; Office: 1611 Building 25, North Campus Research Center, Ann Arbor, MI 48109

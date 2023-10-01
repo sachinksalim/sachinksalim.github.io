@@ -41,8 +41,6 @@ gallery3:
     title: "MASSICCC web app"
 ---
 
-(Include Manager details)
-
 **Applied Machine Learning Engineer**, *Skellam AI, Bengaluru, India* <span class="pull-right">Aug 2021 - Aug 2022</span>  
 <span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> Python, Java, AWS, Springboot, MySQL</span>  
 Developed ‘Qubriux’, a marketing automation tool featuring hyper-personalized recommendations using collaborative filtering. Reported to [Arun A V](https://www.linkedin.com/in/arunveettil/), CEO, Skellam AI.
@@ -67,10 +65,8 @@ Contributed to the development of Adobe PostScript Engine (aka Configurable Post
 **Software Development Intern**, *Samsung R & D, Bengaluru, India* <span class="pull-right">May 2017 - July 2017</span>  
 <span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> C++, IoT, ARTIK</span>  
 Implemented IoTivity using C++ on Samsung's ‘ARTIK’ Smart IoT platform, showcasing technical prowess in executing an LED controlling program through resource discovery, addressing dynamic IoT connectivity needs.
-<br><i class="fas fa-plus small-grey"></i> ...bullet...  
-<br><i class="fas fa-plus small-grey"></i> ...bullet...  
 
-**Project manager for Defense & Security research**, *INRIA* <span class="pull-right">2023 - </span>  
+<!-- **Project manager for Defense & Security research**, *INRIA* <span class="pull-right">2023 - </span>  
 <span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> Python, Machine learning, JavaScript, Docker</span>  
 Project manager for [INRIA's Defense and Security](https://www.inria.fr/fr/mission-securite-defense-bilan-frederique-segond) mission. I am in charge of the engineering aspects for the various projects lead by the D&S team, whose goal is to develop partnerships and research initiatives with entities working in the field of national defense and security (Defense ministry, gendarmerie, etc.). As a project manager, I supervise engineers working on projects that develop state of the art AI research for military and defense appplications, and I contribute to developments of algorithms, tools and web platforms. I also help deploy, maintain and transfer ownership of those projects to our partners.  
 <i class="fas fa-plus small-grey"></i> Full cycle project management for small agile teams working to deliver advanced research applications to industry partners  
@@ -138,4 +134,4 @@ Junior software engineer at a consulting agency, developing mostly web based app
 End of study intership in a research lab working on natural language processing. Implementation of a statistical translation tool for text messages.  
 <i class="fas fa-plus small-grey"></i> Implementation of a state of the art statistical translation tool  
 <i class="fas fa-plus small-grey"></i> Master's research thesis  
-
+ -->

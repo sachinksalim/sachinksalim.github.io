@@ -9,8 +9,11 @@ main:
   - title: "Research"
     url: /research/
     
+  - title: "Teaching"
+    url: /teaching/
+    
   - title: "Industry"
     url: /industry/
 
-  - title: "CV*"
-    url: /hobbies/
+  - title: "CV"
+    url: /files/SACHIN_SALIM.pdf
