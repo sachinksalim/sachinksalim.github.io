@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-As a researcher at Draelos Lab, I explore the applications of machine learning and transfer learning to animal pose estimation, using deep neural networks to analyze neural and behavioral data in real time. This aligns with my passion for the intersection of **neuroscience and machine learning**, which I also pursue through my academic studies at the University of Michigan.
+As a researcher at Draelos Lab, I explore automated behavioral analysis methods focusing on octopus arm movements, utilizing real-time, low-latency methods with deep-learning based kinematic features and streaming dimension reduction. This aligns with my passion for the intersection of **neuroscience and machine learning**, which I also pursue through my academic studies at the University of Michigan.
 
 **Advisor**: Prof. [Anne Draelos](https://draeloslab.org/)
 

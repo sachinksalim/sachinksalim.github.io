@@ -43,6 +43,22 @@ Role of internal fast feedback controls in human hand movement using inter-trial
 [Report](https://drive.google.com/file/d/1GnB1ofiUfJuHCm4HUNoN0LsxjlIzs4zf/view?usp=sharing)  
 Quantifying the social welfare by simulating a group of passengers having to choose between sharing ride and riding solo.
 
+# Presentations
+### Projects
+{: style="font-size:.85em; color: #7a8288;"}
+---
+&bull; Effect of hub network connectivity on network firing patterns [Slides](/files/presentations/Effect_of_hub_network_connectivity_on_network_firing_patterns_Oct_2023.pdf) <span class="pull-right">Oct 2023</span>  
+&bull; Brain Tumor Segmentation using an ensemble of 3D U-Nets [Slides](/files/presentations/Brain_Tumor_Segmentation_EECS504_Presentation_Dec_2022.pdf) <span class="pull-right">Dec 2022</span>
+
+### Paper Review
+{: style="font-size:.85em; color: #7a8288;"}
+---
+&bull; Structure of the Zebrafish Locomotor Repertoire Revealed with Unsupervised Behavioral Clustering
+ [Slides](/files/presentations/Structure_of_the_Zebrafish_Locomotor_Aug_2023.pdf) <span class="pull-right">Aug 2023</span>  
+&bull; Deep learning-based behavioral analysis is capable of outperforming commercial solutions [Slides](/files/presentations/Deep_learning_based_behavioral_analysis_reaches_Jun_2023.pdf) <span class="pull-right">Jun 2023</span>  
+&bull; Task Learning via Internally Rewarded Reinforcement Learning Based Brain Machine Interfaces [Slides](/files/presentations/Internally_Rewarded_RL_Based_BMIs_Apr_2023.pdf) <span class="pull-right">Apr 2023</span>  
+
+
 # Projects
 ### University of Michigan
 {: style="font-size:.85em; color: #7a8288;"}
