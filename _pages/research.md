@@ -44,6 +44,11 @@ Role of internal fast feedback controls in human hand movement using inter-trial
 Quantifying the social welfare by simulating a group of passengers having to choose between sharing ride and riding solo.
 
 # Presentations
+### Journal Clubs
+{: style="font-size:.85em; color: #7a8288;"}
+---
+&bull; Real-time behavioral analysis on octopus arm using transfer learning and stable streaming dimension reduction. [Slides](/files/presentations/Behavioral_Analysis_on_Octopus_Arm_Oct_2023.pdf) <span class="pull-right">Oct 2023</span>  
+
 ### Projects
 {: style="font-size:.85em; color: #7a8288;"}
 ---
