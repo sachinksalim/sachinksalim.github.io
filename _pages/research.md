@@ -24,8 +24,8 @@ classes: wide
 <br><i class="fas fa-plus small-grey"></i> Preparing publication; my codebase is now used by researchers studying other animals such as monkeys and pigs, demonstrating the broader impact
 
 **[Cortical Neural Prosthetics Lab](https://chestekresearch.engin.umich.edu/)**, *University of Michigan* <span class="pull-right">Jan 2023 – Apr 2023</span>  
-<span class="small-grey"><i class="fas fa-user" aria-hidden="true"></i> Dr. Cynthia Chestek, Associate Professor, BME, EECS, Robotics</span>
-[Report](https://drive.google.com/file/d/1WVQqtYmfjBSPbzqZ6ESi7cmK85Xa8EVg/view?usp=drive_link)  
+<span class="small-grey"><i class="fas fa-user" aria-hidden="true"></i> Dr. Cynthia Chestek, Associate Professor, BME, EECS, Robotics</span>  
+[Report](https://drive.google.com/file/d/1WVQqtYmfjBSPbzqZ6ESi7cmK85Xa8EVg/view?usp=drive_link)
 <br><i class="fas fa-plus small-grey"></i> Leveraged reinforcement learning tools such as Gymnasium and RLlib-Ray to predict real-time finger kinematics in non-human primates by interpreting neural signals sourced from multielectrode arrays in the motor cortex. Mentored by Joseph Costello.
 <br><i class="fas fa-plus small-grey"></i> Trained the RL decoder using Proximal Policy Optimization and the model's performance was evaluated over 1000 episodes
 <br><i class="fas fa-plus small-grey"></i> The model achieved success in more than 99% of the simulated episodes, surpassing the baseline algorithm
@@ -42,7 +42,7 @@ classes: wide
 
 **[Computational Economics Lab](https://www.cse.iitb.ac.in/~swaprava/group.html)**, *Indian Institute of Technology Kanpur, India* <span class="pull-right">Jan 2018 - Apr 2018</span>  
 <span class="small-grey"><i class="fas fa-user" aria-hidden="true"></i> Dr. Swaprava Nath, Assistant Professor, CSE</span>  
-[Report](https://drive.google.com/file/d/1GnB1ofiUfJuHCm4HUNoN0LsxjlIzs4zf/view?usp=sharing) | [Presentation](/files/presentations/Quantitative_Comparison_of_Solo_and_Shared_Ride_Apr_2018.pdf)  
+[Report](https://drive.google.com/file/d/1GnB1ofiUfJuHCm4HUNoN0LsxjlIzs4zf/view?usp=sharing) | [Presentation](/files/presentations/Quantitative_Comparison_of_Solo_and_Shared_Ride_Apr_2018.pdf)
 <br><i class="fas fa-plus small-grey"></i> Explored incentivizing shared rides through a randomized polynomial algorithm employing minimum spanning trees to determine the optimal route
 <br><i class="fas fa-plus small-grey"></i> Analysis showcased a 125% environmental enhancement in simulations
 
@@ -56,7 +56,7 @@ classes: wide
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 &bull; Effect of hub network connectivity on network firing patterns, Computational Neuroscience [Slides](/files/presentations/Effect_of_hub_network_connectivity_on_network_firing_patterns_Oct_2023.pdf) <span class="pull-right">Oct 2023</span>  
-&bull; Brain Tumor Segmentation using an ensemble of 3D U-Nets, Graduate Computer Vision [Slides](/files/presentations/Brain_Tumor_Segmentation_EECS504_Presentation_Dec_2022.pdf) <span class="pull-right">Dec 2022</span>
+&bull; Brain Tumor Segmentation using an ensemble of 3D U-Nets, Graduate Computer Vision [Slides](/files/presentations/Brain_Tumor_Segmentation_EECS504_Presentation_Dec_2022.pdf) <span class="pull-right">Dec 2022</span>  
 &bull; A Quantitative Comparison of Solo and Shared Ride, Game Theory [Slides](/files/presentations/Quantitative_Comparison_of_Solo_and_Shared_Ride_Apr_2018.pdf) <span class="pull-right">Apr 2018</span>  
 
 ### Paper Review
