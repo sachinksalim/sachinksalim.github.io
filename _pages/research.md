@@ -19,16 +19,17 @@ classes: wide
 
 **[Draelos Lab](https://draeloslab.org/)**, *University of Michigan* <span class="pull-right">May 2023 – Present</span>  
 <span class="small-grey"><i class="fas fa-user" aria-hidden="true"></i> Dr. Anne Draelos, Assistant Professor, BME</span>
-<br><i class="fas fa-plus small-grey"></i> Led a project utilizing deep learning tools to analyze real-time octopus arm motion aiming to comprehend its adaptive functionality for rehabilitation technologies
-<br><i class="fas fa-plus small-grey"></i> Presented a one-hour talk in a 100+ member journal club
+<br><i class="fas fa-plus small-grey"></i> Led a project analysing real-time octopus arm motion using deep learning (DeepLabCut) & unsupervised (ProSVD) methods to comprehend its adaptive functionality for rehabilitation technologies
+<br><i class="fas fa-plus small-grey"></i> Discovered significant statistical variations in kinematic features to stimulations across different arm locations
+<br><i class="fas fa-plus small-grey"></i> Extended the results to other species and presented a one-hour talk in the Neural Network journal club
 <br><i class="fas fa-plus small-grey"></i> Preparing publication; my codebase is now used by researchers studying other animals such as monkeys and pigs, demonstrating the broader impact
 
 **[Cortical Neural Prosthetics Lab](https://chestekresearch.engin.umich.edu/)**, *University of Michigan* <span class="pull-right">Jan 2023 – Apr 2023</span>  
 <span class="small-grey"><i class="fas fa-user" aria-hidden="true"></i> Dr. Cynthia Chestek, Associate Professor, BME, EECS, Robotics</span>  
 [Report](https://drive.google.com/file/d/1WVQqtYmfjBSPbzqZ6ESi7cmK85Xa8EVg/view?usp=drive_link)
-<br><i class="fas fa-plus small-grey"></i> Leveraged reinforcement learning tools such as Gymnasium and RLlib-Ray to predict real-time finger kinematics in non-human primates by interpreting neural signals sourced from multielectrode arrays in the motor cortex. Mentored by Joseph Costello.
-<br><i class="fas fa-plus small-grey"></i> Trained the RL decoder using Proximal Policy Optimization and the model's performance was evaluated over 1000 episodes
-<br><i class="fas fa-plus small-grey"></i> The model achieved success in more than 99% of the simulated episodes, surpassing the baseline algorithm
+<br><i class="fas fa-plus small-grey"></i> Developed a real-time finger kinematics prediction model using reinforcement learning tools (Gym, RLlib-Ray). Mentored by Joseph Costello.
+<br><i class="fas fa-plus small-grey"></i> Trained the RL decoder using Proximal Policy Optimization achieving success in more than 99% of the simulated episodes
+<br><i class="fas fa-plus small-grey"></i> Finetuned a feed-forward neural network that decodes the neural signals from motor cortex of non-human primates
 
 **[Movement Control Lab](https://cns.iisc.ac.in/aditya/)**, *Indian Institute of Science, Bengaluru, India* <span class="pull-right">Oct 2020 - Dec 2020</span>  
 <span class="small-grey"><i class="fas fa-user" aria-hidden="true"></i> Dr. Aditya Murthy, Professor, Centre For Neuroscience</span>  
@@ -72,6 +73,16 @@ classes: wide
 ### University of Michigan
 {: style="font-size:.85em; color: #7a8288;"}
 ---
+**Modeling APL-Mediated Local Inhibition in the Fruit Fly Mushroom Body** <span class="pull-right">Sep 2023 – Dec 2023</span>  
+<span class="small-grey"><i class="fas fa-user" aria-hidden="true"></i> Dr. Victoria Booth (MATH 568: Computational Neuroscience)</span>  
+[Presentation](/files/presentations/Modeling_APL_in_Fruit_Fly_Mushroom_Body_Dec_2023.pdf)
+<br><i class="fas fa-plus small-grey"></i> Demonstrated that local inhibition regulates sparsity of Kenyon Cell (KC) outputs comparably to global inhibition
+<br><i class="fas fa-plus small-grey"></i> Substantiated through simulations that local-random PN-KC connectivity enhances odor recognition accuracy
+
+**Translating Cartoon to Natural Images using Stable Diffusion** <span class="pull-right">Oct 2023 – Dec 2023</span>  
+<span class="small-grey"><i class="fas fa-user" aria-hidden="true"></i> Dr. Stella Yu (EECS 542: Advanced Computer Vision)</span>
+<br><i class="fas fa-plus small-grey"></i> Trained a latent diffusion model to unconditionally generate images of both domains
+<br><i class="fas fa-plus small-grey"></i> Used a pre-trained image captioning model (BLIP) as a guidance to condition the diffusion generation
 
 **Parkinson's Disease Progression Prediction** <span class="pull-right">Feb 2023 - Apr 2023</span>  
 <span class="small-grey"><i class="fas fa-user" aria-hidden="true"></i> Dr. Chris Teplovs (SI 618: Data Manipulation & Analysis)</span>  
