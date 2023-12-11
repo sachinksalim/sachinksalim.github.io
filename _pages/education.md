@@ -14,7 +14,7 @@ Data Science and Machine Learning <span class="pull-right">Aug 2022 - Dec 2023</
 Dept of Electrical Engineering and Computer Science  
 **Graduate certificate** --
 Computational Neuroscience <span class="pull-right">Jan 2023 - Dec 2023</span>  
-<i class="fas fa-user-graduate small-grey"></i> Grade: [**4.00/4.00**](https://drive.google.com/file/d/102q-KI8jAha0MkzvXnfDPcy_MEMZlrUS/view?usp=sharing)
+<i class="fas fa-user-graduate small-grey"></i> Grade: [**4.00/4.00**](/files/transcripts/UM_Transcript.pdf)
 
 ### Indian Institute of Technology Kanpur, India
 {: style="font-size:1.1em;"}
