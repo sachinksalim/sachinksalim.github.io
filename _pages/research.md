@@ -13,7 +13,7 @@ classes: wide
 **Computational modeling of electrophysiology recordings can predict octopus arm movement**, *Nitish Gedela, Sachin Salim, Julianna Richie, Autumn Mclane Svoboda, Cynthia Chestek, Anne Draelos, Galit Pelled*, *2023*
 
 # Labs
-### Neuroscience
+### Neuroscience <i class="fas fa-brain" aria-hidden="true">
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
@@ -37,7 +37,7 @@ classes: wide
 <br><i class="fas fa-plus small-grey"></i> Researched on the role of internal fast feedback controls in human hand movements by studying the inter-trial variability of duration and peak velocity of hand movements made with two different amplitudes. Mentored by Dr. Varsha Vasudevan.
 <br><i class="fas fa-plus small-grey"></i> Analyzed hand trajectory variance revealing the role of internal fast feedback in dynamically adjusting hand velocity to halt at the target position
 
-### Computer Science
+### Computer Science <i class="fas fa-desktop" aria-hidden="true">
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
@@ -47,26 +47,30 @@ classes: wide
 <br><i class="fas fa-plus small-grey"></i> Explored incentivizing shared rides through a randomized polynomial algorithm employing minimum spanning trees to determine the optimal route
 <br><i class="fas fa-plus small-grey"></i> Analysis showcased a 125% environmental enhancement in simulations
 
-# Presentations
-### Workshop
+# Posters & Presentations
+### Neuroscience <i class="fas fa-brain" aria-hidden="true">
 {: style="font-size:.85em; color: #7a8288;"}
 ---
-&bull; Real-time behavioral analysis on octopus arm using transfer learning and stable streaming dimension reduction, Neural Networks Workshop, University of Michigan [Slides](/files/presentations/Behavioral_Analysis_on_Octopus_Arm_Oct_2023.pdf) <span class="pull-right">Oct 2023</span>
-
-### Projects
-{: style="font-size:.85em; color: #7a8288;"}
----
-&bull; Effect of hub network connectivity on network firing patterns, Computational Neuroscience [Slides](/files/presentations/Effect_of_hub_network_connectivity_on_network_firing_patterns_Oct_2023.pdf) <span class="pull-right">Oct 2023</span>  
-&bull; Brain Tumor Segmentation using an ensemble of 3D U-Nets, Graduate Computer Vision [Slides](/files/presentations/Brain_Tumor_Segmentation_EECS504_Presentation_Dec_2022.pdf) <span class="pull-right">Dec 2022</span>  
-&bull; A Quantitative Comparison of Solo and Shared Ride, Game Theory [Slides](/files/presentations/Quantitative_Comparison_of_Solo_and_Shared_Ride_Apr_2018.pdf) <span class="pull-right">Apr 2018</span>  
-
-### Paper Review
-{: style="font-size:.85em; color: #7a8288;"}
----
-&bull; Structure of the Zebrafish Locomotor Repertoire Revealed with Unsupervised Behavioral Clustering
+&bull; Project Presentation: Modeling APL-Mediated Local Inhibition in the Fruit Fly Mushroom Body [Slides](/files/presentations/Modeling_APL_in_Fruit_Fly_Mushroom_Body_Dec_2023.pdf) <span class="pull-right">Dec 2023</span>  
+&bull; Journal Club Presentation: Real-time behavioral analysis on octopus arm using transfer learning and stable streaming dimension reduction, Neural Networks Workshop, University of Michigan [Slides](/files/presentations/Behavioral_Analysis_on_Octopus_Arm_Oct_2023.pdf) <span class="pull-right">Oct 2023</span>  
+&bull; Project Presentation: Effect of hub network connectivity on network firing patterns, Computational Neuroscience [Slides](/files/presentations/Effect_of_hub_network_connectivity_on_network_firing_patterns_Oct_2023.pdf) <span class="pull-right">Oct 2023</span>  
+&bull; Paper Review: Structure of the Zebrafish Locomotor Repertoire Revealed with Unsupervised Behavioral Clustering
  [Slides](/files/presentations/Structure_of_the_Zebrafish_Locomotor_Aug_2023.pdf) <span class="pull-right">Aug 2023</span>  
-&bull; Deep learning-based behavioral analysis is capable of outperforming commercial solutions [Slides](/files/presentations/Deep_learning_based_behavioral_analysis_reaches_Jun_2023.pdf) <span class="pull-right">Jun 2023</span>  
-&bull; Task Learning via Internally Rewarded Reinforcement Learning Based Brain Machine Interfaces [Slides](/files/presentations/Internally_Rewarded_RL_Based_BMIs_Apr_2023.pdf) <span class="pull-right">Apr 2023</span>  
+&bull; Paper Review: Deep learning-based behavioral analysis is capable of outperforming commercial solutions [Slides](/files/presentations/Deep_learning_based_behavioral_analysis_reaches_Jun_2023.pdf) <span class="pull-right">Jun 2023</span>  
+&bull; Paper Review: Task Learning via Internally Rewarded Reinforcement Learning Based Brain Machine Interfaces [Slides](/files/presentations/Internally_Rewarded_RL_Based_BMIs_Apr_2023.pdf) <span class="pull-right">Apr 2023</span>  
+
+### Computer Vision <i class="fas fa-eye" aria-hidden="true">
+{: style="font-size:.85em; color: #7a8288;"}
+---
+&bull; Poster: Tom & Jerry in Real life - Translating Cartoon to Natural Images using Stable Diffusion [Poster](/files/presentations/StableDiffusion_Cartoon_to_Natural_Poster.pdf) <span class="pull-right">Dec 2023</span>  
+&bull; Paper Review: Attentional Constellation Nets for Few-shot Learning
+ [Slides](/files/presentations/Attentional_Constellation_Fewshot.pdf) <span class="pull-right">Nov 2023</span>  
+&bull; Project Presentation: Brain Tumor Segmentation using an ensemble of 3D U-Nets, Graduate Computer Vision [Slides](/files/presentations/Brain_Tumor_Segmentation_EECS504_Presentation_Dec_2022.pdf) <span class="pull-right">Dec 2022</span>
+
+### Others
+{: style="font-size:.85em; color: #7a8288;"}
+---
+&bull; Thesis Presentation: A Quantitative Comparison of Solo and Shared Ride, Game Theory [Slides](/files/presentations/Quantitative_Comparison_of_Solo_and_Shared_Ride_Apr_2018.pdf) <span class="pull-right">Apr 2018</span>
 
 
 # Projects
@@ -75,12 +79,13 @@ classes: wide
 ---
 **Modeling APL-Mediated Local Inhibition in the Fruit Fly Mushroom Body** <span class="pull-right">Sep 2023 – Dec 2023</span>  
 <span class="small-grey"><i class="fas fa-user" aria-hidden="true"></i> Dr. Victoria Booth (MATH 568: Computational Neuroscience)</span>  
-[Presentation](/files/presentations/Modeling_APL_in_Fruit_Fly_Mushroom_Body_Dec_2023.pdf)
+[Report](/files/reports/um/Fruitfly_Mushroombody.pdf) | [Presentation](/files/presentations/Modeling_APL_in_Fruit_Fly_Mushroom_Body_Dec_2023.pdf)
 <br><i class="fas fa-plus small-grey"></i> Demonstrated that local inhibition regulates sparsity of Kenyon Cell (KC) outputs comparably to global inhibition
 <br><i class="fas fa-plus small-grey"></i> Substantiated through simulations that local-random PN-KC connectivity enhances odor recognition accuracy
 
 **Translating Cartoon to Natural Images using Stable Diffusion** <span class="pull-right">Oct 2023 – Dec 2023</span>  
-<span class="small-grey"><i class="fas fa-user" aria-hidden="true"></i> Dr. Stella Yu (EECS 542: Advanced Computer Vision)</span>
+<span class="small-grey"><i class="fas fa-user" aria-hidden="true"></i> Dr. Stella Yu (EECS 542: Advanced Computer Vision)</span>  
+[Report](/files/reports/um/StableDiffusion_Cartoon_to_Natural.pdf) | [Poster](/files/presentations/StableDiffusion_Cartoon_to_Natural_Poster.pdf)
 <br><i class="fas fa-plus small-grey"></i> Trained a latent diffusion model to unconditionally generate images of both domains
 <br><i class="fas fa-plus small-grey"></i> Used a pre-trained image captioning model (BLIP) as a guidance to condition the diffusion generation
 
@@ -114,10 +119,12 @@ classes: wide
 <br><i class="fas fa-plus small-grey"></i> Solved EZ-Gimpy CAPTCHA by running affine-transformations of shape contexts and comparing them with pre-processed templates
 
 **Quora Question Duplication** <span class="pull-right">Feb 2018 - Apr 2018</span>  
-<span class="small-grey"><i class="fas fa-user" aria-hidden="true"></i> Dr. Harish Karnick (Natural Language Processing)</span>
+<span class="small-grey"><i class="fas fa-user" aria-hidden="true"></i> Dr. Harish Karnick (Natural Language Processing)</span>  
+[Report](/files/reports/iitk/NLP__Quora_Project_Report.pdf)
 <br><i class="fas fa-plus small-grey"></i> Implemented Time Distributed Layer along with GloVe embeddings achieving 83.9% accuracy in detecting semantic similarity
 <br><i class="fas fa-plus small-grey"></i> Demonstrated the significance of GloVe embeddings and attention-based techniques for improved NLP performance
 
 **Online Marketplace for Marginal Farmers** <span class="pull-right">Aug 2017 - Nov 2017</span>  
-<span class="small-grey"><i class="fas fa-user" aria-hidden="true"></i> Dr. Swaprava Nath (Algorithmic Game Theory)</span>
+<span class="small-grey"><i class="fas fa-user" aria-hidden="true"></i> Dr. Swaprava Nath (Algorithmic Game Theory)</span>  
+[Report](/files/reports/iitk/Gametheory__Marketplace_for_farmers.pdf)
 <br><i class="fas fa-plus small-grey"></i> Set up a theoretical online marketplace for the sale of farm-products to tackle the intermediary induced price inflation in the supply chain from rural farmers to urban consumers.
