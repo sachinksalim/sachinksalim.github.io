@@ -6,9 +6,11 @@ author_profile: true
 classes: wide
 ---
 
-As a researcher at Draelos Lab, I explore automated behavioral analysis methods focusing on octopus arm movements, utilizing real-time, low-latency methods with deep-learning based kinematic features and streaming dimension reduction. This aligns with my passion for the intersection of **neuroscience and machine learning**, which I also pursue through my academic studies at the University of Michigan.
+An increasing influx of neural data necessitates the creation of foundational machine learning models capable of interpreting this neural activity. I intend to work on developing deep learning frameworks to model the population dynamics of neural activity across diverse, large-scale neural recordings. Further down my career, I aspire to set up a research lab that addresses the interdisciplinary challenge of developing novel neural decoders that enhance control speed and precision, bolster system reliability, and extend the overall functionality of **Brain Machine Interfaces**.
 
-**Advisor**: Prof. [Anne Draelos](https://draeloslab.org/)
+**Current Role**: Research Associate, [Draelos Lab](https://draeloslab.org/)
+
+**Advisor**: Prof. [Anne Draelos](https://bme.umich.edu/people/anne-draelos-ph-d/), Assistant Professor, University of Michigan
 
 **Contact Information**:  
 &bull; Email: sachinks@umich.edu  
