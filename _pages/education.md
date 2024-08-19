@@ -6,6 +6,13 @@ author_profile: true
 classes: wide
 ---
 
+### University of Southern California, Los Angeles, CA, USA
+{: style="font-size:1.1em;"}
+
+**PhD** -- Electrical and Computer Engineering
+<span class="pull-right">Aug 2024 - May 2029</span>  
+Advisor: Dr. Anand Joshi, Biomedical Imaging Group
+
 ### University of Michigan, Ann Arbor, MI, USA
 {: style="font-size:1.1em;"}
 

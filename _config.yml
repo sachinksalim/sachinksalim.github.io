@@ -45,10 +45,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Author
 author:
   name             : "Sachin Salim"
-  avatar           : "/images/bio-photo-2.jpeg"
-  bio              : "Graduate Student / Researcher"
-  location         : "University of Michigan" # "MI, USA"
-  employer         : "University of Michigan"
+  avatar           : "/images/bio-photo-3.png"
+  bio              : "PhD Student"
+  location         : "University of Southern California"
+  employer         : "University of Southern California"
   github           : "sachinksalim"
   linkedin         : "sachinksalim"
 
