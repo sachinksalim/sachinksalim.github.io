@@ -17,5 +17,12 @@ classes: wide
 &bull; Office: Hughes Aircraft Electrical Engineering Center, 3740 McClintock Ave., Los Angeles, CA 90089
 
 **News**:  
-[![News article](/images/news-1.png)](https://online.fliphtml5.com/pkdrz/eedv/#p=35)
 &bull; Featured in the Fall 2024 issue of MICDE Magazine, University of Michigan, sharing insights into my academic journey and research pursuits! Read [here](https://online.fliphtml5.com/pkdrz/eedv/#p=35).
+[![News article](/images/news-1.png)](https://online.fliphtml5.com/pkdrz/eedv/#p=35)
+
+
+<div style="padding-right: 20%;">
+    <a href="https://online.fliphtml5.com/pkdrz/eedv/#p=35" target="_blank">
+        <img src="/images/news-1.png" alt="News article">
+    </a>
+</div>
