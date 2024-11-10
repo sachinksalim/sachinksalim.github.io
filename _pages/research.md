@@ -6,11 +6,11 @@ author_profile: true
 classes: wide
 ---
 
-### Manuscript (in preparation)
+### Publications
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
-**Computational modeling of electrophysiology recordings can predict octopus arm movement**, *Nitish Gedela, Sachin Salim, Julianna Richie, Autumn Mclane Svoboda, Cynthia Chestek, Anne Draelos, Galit Pelled*, *2023*
+**Single unit electrophysiology recordings and computational modeling can predict octopus arm movement**, *Nitish Gedela, **Sachin Salim**, Ryan Radawiec, Julianna Richie, Cynthia Chestek, Anne Draelos, Galit Pelled, 2023* [bioRxiv doi: 10.1101/2024.09.13.612676](https://www.biorxiv.org/content/10.1101/2024.09.13.612676v1.abstract)
 
 # Labs
 ### Neuroscience <i class="fas fa-brain" aria-hidden="true">
