@@ -6,14 +6,14 @@ author_profile: true
 classes: wide
 ---
 
-### University of Southern California, Los Angeles, CA, USA
+### <img src="/images/education/usc.jpg" alt="USC" style="width:1.1em; height:1.1em;"> University of Southern California, Los Angeles, CA, USA
 {: style="font-size:1.1em;"}
 
 **PhD** -- Electrical and Computer Engineering
 <span class="pull-right">Aug 2024 - May 2029</span>  
 Advisor: Dr. Anand Joshi, Biomedical Imaging Group
 
-### University of Michigan, Ann Arbor, MI, USA
+### ![Michigan](/images/education/michigan.jpg) University of Michigan, Ann Arbor, MI, USA
 {: style="font-size:1.1em;"}
 
 **Master's degree** --
@@ -23,7 +23,7 @@ Dept of Electrical Engineering and Computer Science
 Computational Neuroscience <span class="pull-right">Jan 2023 - Dec 2023</span>  
 <i class="fas fa-user-graduate small-grey"></i> Grade: [**4.00/4.00**](/files/transcripts/UM_Transcript.pdf)
 
-### Indian Institute of Technology Kanpur, India
+### <img src="/images/education/iitk.jpg" alt="IITK" style="width:1.1em; height:1.1em;"> Indian Institute of Technology Kanpur, India
 {: style="font-size:1.1em;"}
 
 **Bachelor of Technology** --
