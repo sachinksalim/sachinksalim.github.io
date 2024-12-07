@@ -17,7 +17,7 @@ classes: wide
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
-**[Draelos Lab](https://draeloslab.org/)**, *University of Michigan* <span class="pull-right">May 2023 – Present</span>  
+**[Draelos Lab](https://draeloslab.org/)**, *University of Michigan* <span class="pull-right">May 2023 – Aug 2024</span>  
 <span class="small-grey"><i class="fas fa-user" aria-hidden="true"></i> Dr. Anne Draelos, Assistant Professor, BME</span>
 <br><i class="fas fa-plus small-grey"></i> Led a project analysing real-time octopus arm motion using deep learning (DeepLabCut) & unsupervised (ProSVD) methods to comprehend its adaptive functionality for rehabilitation technologies
 <br><i class="fas fa-plus small-grey"></i> Discovered significant statistical variations in kinematic features to stimulations across different arm locations
@@ -46,6 +46,17 @@ classes: wide
 [Report](/files/reports/iitk/UGP__Ridesharing_Report.pdf) | [Presentation](/files/presentations/Quantitative_Comparison_of_Solo_and_Shared_Ride_Apr_2018.pdf)
 <br><i class="fas fa-plus small-grey"></i> Explored incentivizing shared rides through a randomized polynomial algorithm employing minimum spanning trees to determine the optimal route
 <br><i class="fas fa-plus small-grey"></i> Analysis showcased a 125% environmental enhancement in simulations
+
+# Teaching
+### Graduate Student Instructor
+{: style="font-size:.85em; color: #7a8288;"}
+---
+
+**Graduate Computer Vision (EECS 504)**, *University of Michigan* <span class="pull-right">Aug 2023 – Dec 2023</span>  
+<span class="small-grey"><i class="fas fa-user" aria-hidden="true"></i>  Dr. Jason Corso, Robotics</span>
+
+**[Computer Vision (EECS 442)](https://web.eecs.umich.edu/~fouhey/teaching/EECS442_W23/)**, *University of Michigan* <span class="pull-right">Jan 2023 – Apr 2023</span>  
+<span class="small-grey"><i class="fas fa-user" aria-hidden="true"></i>  Dr. David Fouhey, Computer Science & Engineering</span>
 
 # Posters & Presentations
 ### Neuroscience <i class="fas fa-brain" aria-hidden="true">

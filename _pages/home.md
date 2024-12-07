@@ -8,9 +8,9 @@ classes: wide
 
 <!-- An increasing influx of neural data necessitates the creation of foundational machine learning models capable of interpreting this neural activity. I intend to work on developing deep learning frameworks to model the population dynamics of neural activity across diverse, large-scale neural recordings. Further down my career, I aspire to set up a research lab that addresses the interdisciplinary challenge of developing novel neural decoders that enhance control speed and precision, bolster system reliability, and extend the overall functionality of **Brain Machine Interfaces**. -->
 
-**Current**: PhD Student, University of Southern California (2024 - ), Los Angeles, CA
+**Current**: PhD Student, University of Southern California (2024 - Present), Los Angeles, CA
 
-**Advisor**: Prof. [Anand Joshi](https://viterbi.usc.edu/directory/faculty/Joshi/Anand), [Biomedical Imaging Group](https://neuroimage.usc.edu/neuro/home), USC
+**Advisor**: [Prof. Anand Joshi](https://viterbi.usc.edu/directory/faculty/Joshi/Anand), [Biomedical Imaging Group](https://neuroimage.usc.edu/neuro/home), [Signal and Image Processing Institute](https://minghsiehece.usc.edu/groups-and-institutes/sipi/)
 
 **Contact Information**:  
 &bull; Email: sachin.salim\[at\]usc\[dot\]edu  
