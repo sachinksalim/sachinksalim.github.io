@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Academia"
+permalink: /academia/
 author_profile: true
 classes: wide
 ---
