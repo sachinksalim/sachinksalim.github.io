@@ -13,7 +13,7 @@ classes: wide
 <span class="pull-right">Aug 2024 - May 2029</span>  
 Advisor: Dr. Anand Joshi, Biomedical Imaging Group
 
-### <img src="/images/education/michigan.jpg" alt="Michigan" style="width:1.3em; height:1.3em;"> University of Michigan, Ann Arbor, MI, USA
+### <img src="/images/education/michigan.jpg" alt="Michigan" style="width:1.1em; height:1.1em;"> University of Michigan, Ann Arbor, MI, USA
 {: style="font-size:1.1em;"}
 
 **Master's degree** --
@@ -23,7 +23,7 @@ Dept of Electrical Engineering and Computer Science
 Computational Neuroscience <span class="pull-right">Jan 2023 - Dec 2023</span>  
 <i class="fas fa-user-graduate small-grey"></i> Grade: [**4.00/4.00**](/files/transcripts/UM_Transcript.pdf)
 
-### <img src="/images/education/iitk.jpg" alt="IITK" style="width:1.2em; height:1.2em;"> Indian Institute of Technology Kanpur, India
+### <img src="/images/education/iitk.jpg" alt="IITK" style="width:1.1em; height:1.1em;"> Indian Institute of Technology Kanpur, India
 {: style="font-size:1.1em;"}
 
 **Bachelor of Technology** --
