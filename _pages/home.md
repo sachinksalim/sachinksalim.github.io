@@ -15,7 +15,7 @@ classes: wide
 &bull; Office: Hughes Aircraft Electrical Engineering Center, 3740 McClintock Ave., Los Angeles, CA 90089
 
 **News**:   
-&bull; Jan 2025 | The paper Sachin co-authored titled "Single unit electrophysiology recordings and computational modeling can predict octopus arm movement" has been accepted for publication in Bioelectronic Medicine. Read [here] (https://pmc.ncbi.nlm.nih.gov/articles/PMC11430158/)
+&bull; Jan 2025 | Our paper, "Single unit electrophysiology recordings and computational modeling can predict octopus arm movement" is accepted in Bioelectronic Medicine! Read [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC11430158/)
 <div style="padding-right: 20%;">
     <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11430158/" target="_blank">
         <img src="/images/news-2.jpg" alt="News article">
