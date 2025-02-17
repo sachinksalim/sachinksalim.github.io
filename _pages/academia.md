@@ -10,7 +10,7 @@ classes: wide
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
-**Single unit electrophysiology recordings and computational modeling can predict octopus arm movement**, *Nitish Gedela, **Sachin Salim**, Ryan Radawiec, Julianna Richie, Cynthia Chestek, Anne Draelos, Galit Pelled, 2023* [bioRxiv doi: 10.1101/2024.09.13.612676](https://www.biorxiv.org/content/10.1101/2024.09.13.612676v1.abstract)
+"Single unit electrophysiology recordings and computational modeling can predict octopus arm movement", Nitish Gedela, **Sachin Salim**, Ryan Radawiec, Julianna Richie, Cynthia Chestek, Anne Draelos, Galit Pelled, *[Bioelectronic Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC11430158/) (accepted)* 2023 ([pdf](https://pmc.ncbi.nlm.nih.gov/articles/PMC11430158/pdf/nihpp-2024.09.13.612676v1.pdf))
 
 # Labs
 ### Neuroscience <i class="fas fa-brain" aria-hidden="true">

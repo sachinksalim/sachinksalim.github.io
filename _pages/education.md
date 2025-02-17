@@ -30,6 +30,8 @@ Computational Neuroscience <span class="pull-right">Jan 2023 - Dec 2023</span>
 Computer Science and Engineering <span class="pull-right">July 2014 - May 2018</span>
 
 # Courses
+**University of Southern California** : Introduction to Digital Signal Processing (A), Probability for Electrical and Computer Engineers (A),  Random Processes in Engineering*
+<br>
 **University of Michigan** : Neural Engineering (A+), Computer Vision (A+),  Matrix Methods for ML, Signal Processing & Data Analysis (A+)
 <br>**IIT Kanpur** : Visual Recognition, Natural Language Processing, Machine Learning Techniques
 <br>**Coursera** : [Computational Neuroscience](https://coursera.org/share/2113ae69bb547a21873c0d36e8351d89) (U of Washington), [Visualizing Data with Python](https://coursera.org/share/07aa765a41f609997112e81c12e54255) (U of Michigan), [Python for Everybody](https://coursera.org/share/627b0e921e3c6efc633a14a492e4d96d) (U of Michigan)
