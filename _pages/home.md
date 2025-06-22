@@ -35,24 +35,16 @@ classes: wide
 <strong>Arun A V</strong><br>
 <em>Founder & CEO Skellam AI and Qubriux</em><br>
 <small>September 21, 2022 — Arun managed Sachin directly</small>
-<p>
-  > Sachin is a talented engineer with great potential. He helped us deliver dynamic offer generation capability for our SaaS platform and also wrote backend code for the MVP release of our app. He is a great guy to work with and will be an asset to any company. Wishing him all the best.
-</p>
-
+> Sachin is a talented engineer with great potential. He helped us deliver dynamic offer generation capability for our SaaS platform and also wrote backend code for the MVP release of our app. He is a great guy to work with and will be an asset to any company. Wishing him all the best.
 <hr>
 
 <strong>Swaprava Nath</strong><br>
 <em>Associate Professor at IIT Bombay, previously at IIT Kanpur</em><br>
 <small>October 19, 2021 — Swaprava was Sachin’s teacher</small>
-<p>
-  > ... I enjoyed the discussions during and after the class [on game theory] which made me think more clearly how to convey the ideas while teaching. It was my first teaching experience as an assistant professor and I realized that good participants genuinely bring out the best of a teacher as well. His performance in the evaluations were also very good and he obtained the highest grade (A*) in the course which I feel is truly reflecting his potential.
-</p>
-
+> ... I enjoyed the discussions during and after the class [on game theory] which made me think more clearly how to convey the ideas while teaching. It was my first teaching experience as an assistant professor and I realized that good participants genuinely bring out the best of a teacher as well. His performance in the evaluations were also very good and he obtained the highest grade (A*) in the course which I feel is truly reflecting his potential.
 <hr>
 
 <strong>Sirisha P</strong><br>
 <em>Engineering Leader at Atlassian, previously at Adobe</em><br>
 <small>October 6, 2021 — Sirisha managed Sachin directly</small>
-<p>
-  > ... He always strives to attain good knowledge of the work before diving into it. He has been productive in giving ideas how some workflows in the features should be implemented which shows his innovative thinking. He is agile in his work and I have utmost confidence in his potential to take on and deliver whatever task he is given. 
-</p>
+> ... He always strives to attain good knowledge of the work before diving into it. He has been productive in giving ideas how some workflows in the features should be implemented which shows his innovative thinking. He is agile in his work and I have utmost confidence in his potential to take on and deliver whatever task he is given. 
