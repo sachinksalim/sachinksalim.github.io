@@ -13,7 +13,8 @@ classes: wide
 **Contact Information**:  
 &bull; Email: sachinksalim\[at\]gmail\[dot\]com  
 
-**News**:   
+### News
+
 &bull; Jan 2025 | Our paper, "Single unit electrophysiology recordings and computational modeling can predict octopus arm movement" is accepted in Bioelectronic Medicine! Read [here](https://link.springer.com/article/10.1186/s42234-025-00166-9)
 <div style="padding-left: 5%; padding-right: 25%;">
     <a href="https://link.springer.com/article/10.1186/s42234-025-00166-9" target="_blank">
@@ -33,42 +34,25 @@ classes: wide
 
 <strong>Arun A V</strong><br>
 <em>Founder & CEO Skellam AI and Qubriux</em><br>
-<small>September 21, 2022 — Arun managed Sachin directly</small><br>
+<small>September 21, 2022 — Arun managed Sachin directly</small>
 <p>
-  Sachin is a talented engineer with great potential. He helped us deliver dynamic offer generation capability for our SaaS platform and also wrote backend code for the MVP release of our app. He is a great guy to work with and will be an asset to any company. Wishing him all the best.
+  > Sachin is a talented engineer with great potential. He helped us deliver dynamic offer generation capability for our SaaS platform and also wrote backend code for the MVP release of our app. He is a great guy to work with and will be an asset to any company. Wishing him all the best.
 </p>
 
 <hr>
 
 <strong>Swaprava Nath</strong><br>
-<em>Associate Professor at IIT Bombay</em><br>
-<small>October 19, 2021 — Swaprava was Sachin’s teacher</small><br>
+<em>Associate Professor at IIT Bombay, previously at IIT Kanpur</em><br>
+<small>October 19, 2021 — Swaprava was Sachin’s teacher</small>
 <p>
-  My academic interaction with Sachin began in my graduate-level game theory class at IIT Kanpur, where he excelled and earned an A*. He later pursued a semester-long project with me that deepened his understanding.
-  <span class="read-more" onclick="this.nextElementSibling.style.display='inline'; this.style.display='none';">... Read more</span>
-  <span style="display:none;">
-    The course was at the intersection of economics and computer science, involving advanced mathematics. Sachin stood out with his thoughtful participation and strong grasp of complex topics. Our discussions during and after class helped shape my teaching approach. His project work further demonstrated his research potential, and I’m confident in his ability to contribute meaningfully to academic or industry research roles.
-  </span>
+  > ... I enjoyed the discussions during and after the class [on game theory] which made me think more clearly how to convey the ideas while teaching. It was my first teaching experience as an assistant professor and I realized that good participants genuinely bring out the best of a teacher as well. His performance in the evaluations were also very good and he obtained the highest grade (A*) in the course which I feel is truly reflecting his potential.
 </p>
 
 <hr>
 
 <strong>Sirisha P</strong><br>
-<em>Engineering Leader at Atlassian</em><br>
-<small>October 6, 2021 — Sirisha managed Sachin directly</small><br>
+<em>Engineering Leader at Atlassian, previously at Adobe</em><br>
+<small>October 6, 2021 — Sirisha managed Sachin directly</small>
 <p>
-  Sachin is talented, committed, and consistently eager to take ownership. At Adobe, he contributed ideas, showed initiative, and displayed strong interpersonal skills.
-  <span class="read-more" onclick="this.nextElementSibling.style.display='inline'; this.style.display='none';">... Read more</span>
-  <span style="display:none;">
-    He always strived to understand the task thoroughly before diving in and approached every responsibility with diligence. His agility, innovative thinking, and enthusiasm for learning were evident throughout his time on the team. I’m confident in his ability to excel in any opportunity and wish him all the best in his journey.
-  </span>
+  > ... He always strives to attain good knowledge of the work before diving into it. He has been productive in giving ideas how some workflows in the features should be implemented which shows his innovative thinking. He is agile in his work and I have utmost confidence in his potential to take on and deliver whatever task he is given. 
 </p>
-
-<style>
-.read-more {
-  color: #007acc;
-  cursor: pointer;
-  font-weight: 500;
-  white-space: nowrap;
-}
-</style>
