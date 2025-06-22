@@ -10,26 +10,30 @@ classes: wide
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
-"Single unit electrophysiology recordings and computational modeling can predict octopus arm movement", Nitish Gedela, **Sachin Salim**, Ryan Radawiec, Julianna Richie, Cynthia Chestek, Anne Draelos, Galit Pelled, *[Bioelectronic Medicine](https://link.springer.com/article/10.1186/s42234-025-00166-9) (accepted)* 2024 ([pdf](https://pmc.ncbi.nlm.nih.gov/articles/PMC11430158/pdf/nihpp-2024.09.13.612676v1.pdf))
+"In vivo electrophysiology recordings and computational modeling can predict octopus arm movement", Nitish Gedela, **Sachin Salim**, Ryan Radawiec, Julianna Richie, Cynthia Chestek, Anne Draelos, Galit Pelled, *[Bioelectronic Medicine](https://link.springer.com/article/10.1186/s42234-025-00166-9) (accepted)* 2024 ([pdf](https://pmc.ncbi.nlm.nih.gov/articles/PMC11430158/pdf/nihpp-2024.09.13.612676v1.pdf))
 
 # Labs
-### Neuroscience <i class="fas fa-brain" aria-hidden="true">
+### Deep Learning/Neuroscience <i class="fas fa-brain" aria-hidden="true">
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
+**[Biomedical Imaging Group](https://neuroimage.usc.edu/neuro/home/)**, *University of Southern California* <span class="pull-right">Aug 2024 – May 2025</span>  
+<span class="small-grey"><i class="fas fa-user" aria-hidden="true"></i> Dr. Anand Joshi, Research Assistant Professor, ECE</span>
+<br><i class="fas fa-plus small-grey"></i> Developed deep learning pipelines using 3D U-Net within the MONAI framework to reconstruct missing MRI sequences in clinical brain imaging datasets, incorporating quantile regression to estimate uncertainty
+<br><i class="fas fa-plus small-grey"></i> Contributed to research on biomarker identification for post-traumatic epilepsy (PTE) using multi-site traumatic brain injury (TBI) MRI datasets, utilizing high-performance computing resources for large-scale data analysis
+
 **[Draelos Lab](https://draeloslab.org/)**, *University of Michigan* <span class="pull-right">May 2023 – Aug 2024</span>  
 <span class="small-grey"><i class="fas fa-user" aria-hidden="true"></i> Dr. Anne Draelos, Assistant Professor, BME</span>
-<br><i class="fas fa-plus small-grey"></i> Led a project analysing real-time octopus arm motion using deep learning (DeepLabCut) & unsupervised (ProSVD) methods to comprehend its adaptive functionality for rehabilitation technologies
-<br><i class="fas fa-plus small-grey"></i> Discovered significant statistical variations in kinematic features to stimulations across different arm locations
-<br><i class="fas fa-plus small-grey"></i> Extended the results to other species and presented a one-hour talk in the Neural Network journal club
-<br><i class="fas fa-plus small-grey"></i> Preparing publication; my codebase is now used by researchers studying other animals such as monkeys and pigs, demonstrating the broader impact
+<br><i class="fas fa-plus small-grey"></i> Led a published research project on octopus arm movement, combining behavioral analysis using DeepLabCut with single-neuron spiking data to develop biologically inspired decoding models of distributed motor control
+<br><i class="fas fa-plus small-grey"></i> Applied variational autoencoders (VAEs) to identify genetic biomarkers of Alzheimer’s disease from high-dimensional transcriptomic data in mouse models, uncovering associated latent representations
+<br><i class="fas fa-plus small-grey"></i> Set up and managed the lab's computer systems, making sure they worked well for real-time learning and data management. Made sure everything was documented and easy to repeat
+<br><i class="fas fa-plus small-grey"></i> Trained others in the lab on using equipment and software, and helped with writing grants and reports
 
 **[Cortical Neural Prosthetics Lab](https://chestekresearch.engin.umich.edu/)**, *University of Michigan* <span class="pull-right">Jan 2023 – Apr 2023</span>  
 <span class="small-grey"><i class="fas fa-user" aria-hidden="true"></i> Dr. Cynthia Chestek, Associate Professor, BME, EECS, Robotics</span>  
 [Report](/files/reports/um/RL_Finger_Kinematics_ChestekLab.pdf)
-<br><i class="fas fa-plus small-grey"></i> Developed a real-time finger kinematics prediction model using reinforcement learning tools (Gym, RLlib-Ray). Mentored by Joseph Costello.
-<br><i class="fas fa-plus small-grey"></i> Trained the RL decoder using Proximal Policy Optimization achieving success in more than 99% of the simulated episodes
-<br><i class="fas fa-plus small-grey"></i> Finetuned a feed-forward neural network that decodes the neural signals from motor cortex of non-human primates
+<br><i class="fas fa-plus small-grey"></i> Developed a real-time finger kinematics prediction model using reinforcement learning frameworks such as Gym and RLlib-Ray, aimed at advancing neural control in brain-computer interfaces. Mentored by Joseph Costello.
+<br><i class="fas fa-plus small-grey"></i> Finetuned a feed-forward neural network to decode motor cortex signals from non-human primates, enabling accurate mapping from cortical activity to continuous finger movements
 
 **[Movement Control Lab](https://cns.iisc.ac.in/aditya/)**, *Indian Institute of Science, Bengaluru, India* <span class="pull-right">Oct 2020 - Dec 2020</span>  
 <span class="small-grey"><i class="fas fa-user" aria-hidden="true"></i> Dr. Aditya Murthy, Professor, Centre For Neuroscience</span>  

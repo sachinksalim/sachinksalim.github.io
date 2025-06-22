@@ -11,7 +11,9 @@ classes: wide
 
 **PhD** -- Electrical and Computer Engineering
 <span class="pull-right">Aug 2024 - May 2029</span>  
-Advisor: Dr. Anand Joshi, Biomedical Imaging Group
+Advisor: Dr. Anand Joshi, Biomedical Imaging Group  
+<i class="fas fa-user-graduate small-grey"></i> 
+Grade: [**4.00/4.00**](/files/transcripts/USC_Grade_Report.pdf)
 
 ### <img src="/images/education/michigan.jpg" alt="Michigan" style="width:1.1em; height:1.1em;"> University of Michigan, Ann Arbor, MI, USA
 {: style="font-size:1.1em;"}
@@ -28,6 +30,8 @@ Computational Neuroscience <span class="pull-right">Jan 2023 - Dec 2023</span>
 
 **Bachelor of Technology** --
 Computer Science and Engineering <span class="pull-right">July 2014 - May 2018</span>
+<i class="fas fa-user-graduate small-grey"></i> 
+Grade: [**7.9/10.0**](/files/transcripts/IITK_Transcript.pdf)
 
 # Courses
 **University of Southern California** : Introduction to Digital Signal Processing (A), Probability for Electrical and Computer Engineers (A),  Random Processes in Engineering*
