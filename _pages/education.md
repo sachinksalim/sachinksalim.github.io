@@ -9,8 +9,9 @@ classes: wide
 ### <img src="/images/education/usc.jpg" alt="USC" style="width:1.1em; height:1.1em;"> University of Southern California, Los Angeles, CA, USA
 {: style="font-size:1.1em;"}
 
-**PhD** -- Electrical and Computer Engineering
+**PhD** -- Signal & Image Processing
 <span class="pull-right">Aug 2024 - May 2029</span>  
+Dept of Electrical and Computer Engineering  
 Advisor: Dr. Anand Joshi, Biomedical Imaging Group  
 <i class="fas fa-user-graduate small-grey"></i> 
 Grade: [**4.00/4.00**](/files/transcripts/USC_Grade_Report.pdf)
@@ -29,12 +30,12 @@ Computational Neuroscience <span class="pull-right">Jan 2023 - Dec 2023</span>
 {: style="font-size:1.1em;"}
 
 **Bachelor of Technology** --
-Computer Science and Engineering <span class="pull-right">July 2014 - May 2018</span>
+Computer Science and Engineering <span class="pull-right">July 2014 - May 2018</span>  
 <i class="fas fa-user-graduate small-grey"></i> 
 Grade: [**7.9/10.0**](/files/transcripts/IITK_Transcript.pdf)
 
 # Courses
-**University of Southern California** : Introduction to Digital Signal Processing (A), Probability for Electrical and Computer Engineers (A),  Random Processes in Engineering*
+**University of Southern California** : Digital Signal Processing (A), Probability for Engineers (A),  Random Processes in Engineering*
 <br>
 **University of Michigan** : Neural Engineering (A+), Computer Vision (A+),  Matrix Methods for ML, Signal Processing & Data Analysis (A+)
 <br>**IIT Kanpur** : Visual Recognition, Natural Language Processing, Machine Learning Techniques
