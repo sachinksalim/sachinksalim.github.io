@@ -19,13 +19,13 @@ classes: wide
 
 **[Biomedical Imaging Group](https://neuroimage.usc.edu/neuro/home/)**, *University of Southern California* <span class="pull-right">Aug 2024 – May 2025</span>
 <br><span class="small-grey"><i class="fas fa-user" aria-hidden="true"></i> Dr. Anand Joshi, Research Assistant Professor, ECE</span>
-<br>[Draft](/files/reports/usc/Contrast_Synthesis_Draft.pdf) [Slides](/files/reports/usc/Contrast_Synthesis_Slides_Mar_2025.pdf) 
+<br>[Draft](/files/reports/usc/Contrast_Synthesis_Draft.pdf) | [Slides](/files/reports/usc/Contrast_Synthesis_Slides_Mar_2025.pdf) 
 <br><i class="fas fa-plus small-grey"></i> Developed deep learning pipelines using 3D U-Net within the MONAI framework to reconstruct missing MRI sequences in clinical brain imaging datasets, incorporating quantile regression to estimate uncertainty
 <br><i class="fas fa-plus small-grey"></i> Contributed to research on biomarker identification for post-traumatic epilepsy (PTE) using multi-site traumatic brain injury (TBI) MRI datasets, utilizing high-performance computing resources for large-scale data analysis
 
 **[Draelos Lab](https://draeloslab.org/)**, *University of Michigan* <span class="pull-right">May 2023 – Aug 2024</span>
 <br><span class="small-grey"><i class="fas fa-user" aria-hidden="true"></i> Dr. Anne Draelos, Assistant Professor, BME</span>
-<br>[Paper](/files/reports/um/Octopus_DraelosLab_Paper.pdf) [Manuscript](/files/reports/um/Octopus_DraelosLab_Manuscript.pdf) [Slides](/files/presentations/Behavioral_Analysis_on_Octopus_Arm_Oct_2023.pdf)
+<br>[Paper](/files/reports/um/Octopus_DraelosLab_Paper.pdf) | [Manuscript](/files/reports/um/Octopus_DraelosLab_Manuscript.pdf) | [Slides](/files/presentations/Behavioral_Analysis_on_Octopus_Arm_Oct_2023.pdf)
 <br><i class="fas fa-plus small-grey"></i> Led a published research project on octopus arm movement, combining behavioral analysis using DeepLabCut with single-neuron spiking data to develop biologically inspired decoding models of distributed motor control
 <br><i class="fas fa-plus small-grey"></i> Applied variational autoencoders (VAEs) to identify genetic biomarkers of Alzheimer’s disease from high-dimensional transcriptomic data in mouse models, uncovering associated latent representations
 <br><i class="fas fa-plus small-grey"></i> Set up and managed the lab's computer systems, making sure they worked well for real-time learning and data management. Made sure everything was documented and easy to repeat
