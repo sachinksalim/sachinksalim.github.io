@@ -17,27 +17,29 @@ classes: wide
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
-**[Biomedical Imaging Group](https://neuroimage.usc.edu/neuro/home/)**, *University of Southern California* <span class="pull-right">Aug 2024 – May 2025</span>  
-<span class="small-grey"><i class="fas fa-user" aria-hidden="true"></i> Dr. Anand Joshi, Research Assistant Professor, ECE</span>
+**[Biomedical Imaging Group](https://neuroimage.usc.edu/neuro/home/)**, *University of Southern California* <span class="pull-right">Aug 2024 – May 2025</span>
+<br><span class="small-grey"><i class="fas fa-user" aria-hidden="true"></i> Dr. Anand Joshi, Research Assistant Professor, ECE</span>
+<br>[Draft](/files/reports/usc/Contrast_Synthesis_Draft.pdf) [Slides](/files/reports/usc/Contrast_Synthesis_Slides_Mar_2025.pdf) 
 <br><i class="fas fa-plus small-grey"></i> Developed deep learning pipelines using 3D U-Net within the MONAI framework to reconstruct missing MRI sequences in clinical brain imaging datasets, incorporating quantile regression to estimate uncertainty
 <br><i class="fas fa-plus small-grey"></i> Contributed to research on biomarker identification for post-traumatic epilepsy (PTE) using multi-site traumatic brain injury (TBI) MRI datasets, utilizing high-performance computing resources for large-scale data analysis
 
-**[Draelos Lab](https://draeloslab.org/)**, *University of Michigan* <span class="pull-right">May 2023 – Aug 2024</span>  
-<span class="small-grey"><i class="fas fa-user" aria-hidden="true"></i> Dr. Anne Draelos, Assistant Professor, BME</span>
+**[Draelos Lab](https://draeloslab.org/)**, *University of Michigan* <span class="pull-right">May 2023 – Aug 2024</span>
+<br><span class="small-grey"><i class="fas fa-user" aria-hidden="true"></i> Dr. Anne Draelos, Assistant Professor, BME</span>
+<br>[Paper](/files/reports/um/Octopus_DraelosLab_Paper.pdf) [Manuscript](/files/reports/um/Octopus_DraelosLab_Manuscript.pdf) [Slides](/files/presentations/Behavioral_Analysis_on_Octopus_Arm_Oct_2023.pdf)
 <br><i class="fas fa-plus small-grey"></i> Led a published research project on octopus arm movement, combining behavioral analysis using DeepLabCut with single-neuron spiking data to develop biologically inspired decoding models of distributed motor control
 <br><i class="fas fa-plus small-grey"></i> Applied variational autoencoders (VAEs) to identify genetic biomarkers of Alzheimer’s disease from high-dimensional transcriptomic data in mouse models, uncovering associated latent representations
 <br><i class="fas fa-plus small-grey"></i> Set up and managed the lab's computer systems, making sure they worked well for real-time learning and data management. Made sure everything was documented and easy to repeat
 <br><i class="fas fa-plus small-grey"></i> Trained others in the lab on using equipment and software, and helped with writing grants and reports
 
-**[Cortical Neural Prosthetics Lab](https://chestekresearch.engin.umich.edu/)**, *University of Michigan* <span class="pull-right">Jan 2023 – Apr 2023</span>  
-<span class="small-grey"><i class="fas fa-user" aria-hidden="true"></i> Dr. Cynthia Chestek, Associate Professor, BME, EECS, Robotics</span>  
-[Report](/files/reports/um/RL_Finger_Kinematics_ChestekLab.pdf)
+**[Cortical Neural Prosthetics Lab](https://chestekresearch.engin.umich.edu/)**, *University of Michigan* <span class="pull-right">Jan 2023 – Apr 2023</span>
+<br><span class="small-grey"><i class="fas fa-user" aria-hidden="true"></i> Dr. Cynthia Chestek, Associate Professor, BME, EECS, Robotics</span>
+<br>[Report](/files/reports/um/RL_Finger_Kinematics_ChestekLab.pdf)
 <br><i class="fas fa-plus small-grey"></i> Developed a real-time finger kinematics prediction model using reinforcement learning frameworks such as Gym and RLlib-Ray, aimed at advancing neural control in brain-computer interfaces. Mentored by Joseph Costello.
 <br><i class="fas fa-plus small-grey"></i> Finetuned a feed-forward neural network to decode motor cortex signals from non-human primates, enabling accurate mapping from cortical activity to continuous finger movements
 
-**[Movement Control Lab](https://cns.iisc.ac.in/aditya/)**, *Indian Institute of Science, Bengaluru, India* <span class="pull-right">Oct 2020 - Dec 2020</span>  
-<span class="small-grey"><i class="fas fa-user" aria-hidden="true"></i> Dr. Aditya Murthy, Professor, Centre For Neuroscience</span>  
-[Code](/files/reports/others/IISc_Research_Code.pdf)
+**[Movement Control Lab](https://cns.iisc.ac.in/aditya/)**, *Indian Institute of Science, Bengaluru, India* <span class="pull-right">Oct 2020 - Dec 2020</span>
+<br><span class="small-grey"><i class="fas fa-user" aria-hidden="true"></i> Dr. Aditya Murthy, Professor, Centre For Neuroscience</span>
+<br>[Code](/files/reports/others/IISc_Research_Code.pdf)
 <br><i class="fas fa-plus small-grey"></i> Researched on the role of internal fast feedback controls in human hand movements by studying the inter-trial variability of duration and peak velocity of hand movements made with two different amplitudes. Mentored by Dr. Varsha Vasudevan.
 <br><i class="fas fa-plus small-grey"></i> Analyzed hand trajectory variance revealing the role of internal fast feedback in dynamically adjusting hand velocity to halt at the target position
 
